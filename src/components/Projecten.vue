@@ -15,21 +15,21 @@ onMounted(() => {
 
     // Define a custom icon
     var waterIcon = L.icon({
-        iconUrl: "/assets/water-svgrepo-com.png", // Path to your custom PNG marker image
+        iconUrl: "../../water-svgrepo-com.png", // Path to your custom PNG marker image
         iconSize: [32, 32], // Size of the icon
         iconAnchor: [16, 32], // Anchor point of the icon (center bottom)
     });
 
     // Define a custom icon
     var climateIcon = L.icon({
-        iconUrl: "/assets/cloud-svgrepo-com.png", // Path to your custom PNG marker image
+        iconUrl: "../../cloud-svgrepo-com.png", // Path to your custom PNG marker image
         iconSize: [32, 32], // Size of the icon
         iconAnchor: [16, 32], // Anchor point of the icon (center bottom)
     });
 
     // Define a custom icon
     var brainIcon = L.icon({
-        iconUrl: "/assets/bolt-svgrepo-com.png", // Path to your custom PNG marker image
+        iconUrl: "../../bolt-svgrepo-com.png", // Path to your custom PNG marker image
         iconSize: [32, 32], // Size of the icon
         iconAnchor: [16, 32], // Anchor point of the icon (center bottom)
     });

@@ -14,6 +14,7 @@ import Contact from "./components/Contact.vue";
 import Partners from "./components/Partners.vue";
 import Footer from "./components/Footer.vue";
 
+// Definieer de componenten
 export default {
     components: {
         Navbar,
@@ -33,6 +34,7 @@ export default {
 };
 </script>
 
+<!-- Laat de verschillende componenten zien -->
 <template>
     <Navbar />
     <Home />

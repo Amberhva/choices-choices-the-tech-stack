@@ -31,7 +31,7 @@
             <div class="inner-section">
                 <div class="horizontal-flex-row">
                     <div class="image-container">
-                        <img class="mobile-image" src="assets/projects4.png" alt="" />
+                        <img class="mobile-image" src="../../projects4.png" alt="" />
                     </div>
                     <div class="text-container">
                         <h2>Gemeenten</h2>

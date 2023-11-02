@@ -1,3 +1,4 @@
+// Deze code configureert Vue Router voor een Vue.js-toepassing
 import { createRouter, createWebHistory } from "vue-router";
 
 import Home from "../components/Home.vue";
