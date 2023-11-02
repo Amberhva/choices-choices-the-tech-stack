@@ -5,31 +5,31 @@ console.log(data);
 
 // Get the last post from the array
 
-let lastPost1 = data.kennisbanks[data.kennisbanks.length - 1];
-let lastPost2 = data.kennisbanks[data.kennisbanks.length - 2];
-let lastPost3 = data.kennisbanks[data.kennisbanks.length - 3];
+// let lastPost1 = data.kennisbanks[data.kennisbanks.length - 1];
+// let lastPost2 = data.kennisbanks[data.kennisbanks.length - 2];
+// let lastPost3 = data.kennisbanks[data.kennisbanks.length - 3];
 
-import { ref, onMounted } from "vue";
+// import { ref, onMounted } from "vue";
 
-onMounted(() => {
-    // Add a click event listener to the list items to toggle the "active" class
+// onMounted(() => {
+//     // Add a click event listener to the list items to toggle the "active" class
 
-    var listItems = document.querySelectorAll("#filterList li");
+//     var listItems = document.querySelectorAll("#filterList li");
 
-    listItems.forEach(function (item) {
-        item.addEventListener("click", function () {
-            // Remove the "active" class from all list items
+//     listItems.forEach(function (item) {
+//         item.addEventListener("click", function () {
+//             // Remove the "active" class from all list items
 
-            listItems.forEach(function (li) {
-                li.classList.remove("active");
-            });
+//             listItems.forEach(function (li) {
+//                 li.classList.remove("active");
+//             });
 
-            // Add the "active" class to the clicked list item
+//             // Add the "active" class to the clicked list item
 
-            this.classList.add("active");
-        });
-    });
-});
+//             this.classList.add("active");
+//         });
+//     });
+// });
 </script>
 
 <template>

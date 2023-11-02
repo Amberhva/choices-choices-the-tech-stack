@@ -8,7 +8,7 @@
                     <div class="image-container">
                         <h2>Waterkwaliteit</h2>
                         <p class="bold-text">Wat betekent de Kaderrichtlijn Water voor jou?</p>
-                        <img src="assets/Aquathermie.png" alt="foto aquathermie" />
+                        <img src="../../Aquathermie.png" alt="foto aquathermie" />
                     </div>
                     <div class="text-container">
                         <p>

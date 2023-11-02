@@ -17,7 +17,7 @@ onMounted(() => {
     <div class="navbar">
         <div class="container flex-nav">
             <div class="nav-header">
-                <img class="logo" src="/assets/logo_spatwater.png" alt="logo spatwater" />
+                <img class="logo" src="/../../logo_spatwater.png" alt="logo spatwater" />
                 <button class="nav-toggle" id="navToggle">
                     <i class="ri-menu-line" />
                 </button>

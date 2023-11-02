@@ -20,7 +20,7 @@
                     <a href="#expertise" class="button">Onze expertise</a>
                 </div>
                 <div class="image-container">
-                    <img src="assets/tree.png" alt="boom illustratie" />
+                    <img src="../../tree.png" alt="boom illustratie" />
                 </div>
             </div>
         </div>

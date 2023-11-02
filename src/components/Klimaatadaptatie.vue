@@ -21,7 +21,7 @@
                         </ul>
                     </div>
                     <div class="image-container">
-                        <img src="assets/projects1.png" alt="" />
+                        <img src="../../projects1.png" alt="" />
                     </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                         </ul>
                     </div>
                     <div class="image-container">
-                        <img src="assets/verg.png" alt="" />
+                        <img src="../../verg.png" alt="" />
                     </div>
                 </div>
             </div>

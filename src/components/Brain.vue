@@ -20,7 +20,7 @@
                         <a href="#brain" class="button">Bekijk project</a>
                     </div>
                     <div class="image-container">
-                        <img src="assets/bRAIN.png" alt="" />
+                        <img src="../../bRAIN.png" alt="" />
                     </div>
                 </div>
             </div>

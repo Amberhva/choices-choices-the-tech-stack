@@ -6,7 +6,7 @@
 
         <div class="expertise__wrapper">
             <div class="expertise__card">
-                <img class="expertise3" src="assets/Untitled4.png" alt="Illustratie klimaatadaptatie" />
+                <img class="expertise3" src="../..//Untitled4.png" alt="Illustratie klimaatadaptatie" />
                 <h3>Klimaatadaptatie</h3>
                 <a href="#klimaat" class="button">
                     <p class="button_text2">Meer informatie</p>
@@ -14,7 +14,7 @@
             </div>
 
             <div class="expertise__card">
-                <img class="expertise2" src="assets/Untitled3.png" alt="Illustratie waterkwaliteit" />
+                <img class="expertise2" src="../..//Untitled3.png" alt="Illustratie waterkwaliteit" />
                 <h3>Waterkwaliteit</h3>
                 <a href="#waterkwaliteit" class="button">
                     <p class="button_text2">Meer informatie</p>
@@ -22,7 +22,7 @@
             </div>
 
             <div class="expertise__card">
-                <img class="expertise2" src="assets/brainlogo.png" alt="Illustratie B-Rain" />
+                <img class="expertise2" src="../..//brainlogo.png" alt="Illustratie B-Rain" />
                 <h3>B-Rain</h3>
                 <a href="#brain" class="button">
                     <p class="button_text2">Meer informatie</p>

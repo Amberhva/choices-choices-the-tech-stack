@@ -27,7 +27,7 @@ console.log(data);
             <div class="swiper-wrapper">
                 <!--==================== MEES ====================-->
                 <div class="team-card swiper-slide">
-                    <img src="assets/mees1.png" alt="foto Mees" class="team-img" />
+                    <img src="../../mees1.png" alt="foto Mees" class="team-img" />
                     <!-- <img src="assets/mees_water.png" class="hover_img"> -->
                     <div class="team-text">
                         <h2 class="team-name">Mees</h2>
@@ -37,7 +37,7 @@ console.log(data);
 
                 <!--==================== JESSE ====================-->
                 <div class="team-card swiper-slide">
-                    <img src="assets/timo.png" alt="foto Mees" class="team-img" />
+                    <img src="../../timo.png" alt="foto Mees" class="team-img" />
                     <div class="team-text">
                         <h2 class="team-name">Timo</h2>
                         <h3 class="team-mail">t.vdberg@spatwater.nl</h3>
@@ -46,7 +46,7 @@ console.log(data);
 
                 <!--==================== TIMO ====================-->
                 <div class="team-card swiper-slide">
-                    <img src="assets/jesse.png" alt="foto Mees" class="team-img" />
+                    <img src="../../jesse.png" alt="foto Mees" class="team-img" />
                     <div class="team-text">
                         <h2 class="team-name">Jesse</h2>
                         <h3 class="team-mail">j.schoenmakers@spatwater.nl</h3>
